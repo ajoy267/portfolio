@@ -17,7 +17,7 @@ export default function App() {
         ${styles.myCustomCssClass}
       `}
     >
-      Hello, World!
+      Currently A Work In Progress
     </h1>
   );
 }
