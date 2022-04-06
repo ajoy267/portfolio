@@ -1,12 +1,12 @@
 import './App.css'; /* Global CSS */
 import Header from './components/Layout/Header';
-import Home from './views/Home/Home';
+import Intro from './views/Intro/Intro';
 
 export default function App() {
   return (
     <body>
       <Header />
-      <Home />
+      <Intro />
     </body>
   );
 }
