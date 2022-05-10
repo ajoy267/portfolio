@@ -4,7 +4,7 @@ import linkedin from '../../assets/linkedin.png';
 
 export default function Footer() {
   return (
-    <footer>
+    <footer className="text-slate-300 my-4 border-t-4 border-slate-300">
       <h3>Contact</h3>
       <div>
         <a href="https://github.com/ajoy267" target="_blank">
